@@ -1,5 +1,9 @@
-### Starter Project for the Material UI playlist
+# React + Vite
 
-Download the code & run **npm install** to install dependencies before starting the app.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# material-ui-tut
