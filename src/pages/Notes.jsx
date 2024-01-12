@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Notes() {
+const Notes=()=> {
   return (
     <div>
       Notes page
     </div>
   )
 }
+export default Notes
+
